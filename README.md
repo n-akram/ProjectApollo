@@ -13,7 +13,7 @@ APOLO stands for APplication Of Learning to Levitate Opportune. In this series o
 
 ## APOLLO-1: Online-toxicity-detection
 
-This is the first Project of the series was Online-Toxicity-Detectioon. The Project is run in phases. First phase of the project was from 16th May 2020 to 1st June 2020. 
+This is the first Project of the series, Online-Toxicity-Detectioon. Goal of this project was to build a web-based python app that takes a link of a social media platform as an input, and detect the toxicity in the comments as output. The Project is run in phases. First phase of the project was from 16th May 2020 to 1st June 2020. 
 
 ##### Project Contributors: ##### 
 [Naveed Akram](https://github.com/n-akram), [Ritu Yadav](https://github.com/RituYadav92), [Kumar Shridhar](https://github.com/kumar-shridhar), [Ashutosh Mishra](https://github.com/ashutoshmishra1014), [Venkatesh Iyer](https://github.com/venkyiyer), [Sadique Adnan](https://github.com/sadique-adnan)
